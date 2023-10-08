@@ -1,6 +1,6 @@
 import Controller from '@ember/controller';
-import ingestEmailSrc from 'asset-import/assets/images/ingest-email-light.svg';
+import tomsterSrc from 'asset-import/assets/images/Ember-Rock-Roll-lg.png';
 
 export default class ApplicationController extends Controller {
-  imageSrc = ingestEmailSrc;
+  imageSrc = tomsterSrc;
 }
